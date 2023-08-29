@@ -124,6 +124,10 @@ To run tests, run the following command:
 - Twitter: [@arieabyss](https://twitter.com/ariesabyss)
 - LinkedIn: [Chongtham Ruby Devi](https://www.linkedin.com/in/chongtham-bhoomika/)
 
+**Luzinda Douglas**
+- GitHub: [@LdouglasOT](https://github.com/LdouglasOT)
+- Twitter: [@LdouglasOT](https://twitter.com/LdouglasOT)
+- LinkedIn: [LdouglasOT](https://www.linkedin.com/in/LdouglasOT/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
